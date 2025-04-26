@@ -14,7 +14,7 @@ This project consists of a FastAPI backend and a frontend application. This READ
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/username/nephro-scan.git
+git clone https://github.com/p4wndev/nephro-scan.git
 cd app
 ```
 
